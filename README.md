@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusthipangestu1906&label=Profile%20views&color=0e75b6&style=flat" alt="gusthipangestu1906" /> </p>
 
-- 🌱 I’m currently learning **Content Marketing, Social Media Marketing**
+- 🌱 I’m currently learning **Content Marketing and Social Media Marketing**
 
 - 💬 Ask me about **Graphic Design, Content Marketing, and Social Media Marketing**
 
@@ -20,3 +20,4 @@
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusthipangestu1906&show_icons=true&locale=en&layout=compact" alt="gusthipangestu1906" /></p>
+
